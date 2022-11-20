@@ -1470,7 +1470,7 @@ label {
 	-webkit-transform: rotateZ(45deg);
 	transform: rotateZ(45deg)
 }
-
+/*
 .hero-figure-box-01 {
 	left: 103.2%;
 	top: 41.9%;
@@ -1486,7 +1486,7 @@ label {
 	-webkit-transform: rotateZ(45deg) scale(1.5);
 	transform: rotateZ(45deg) scale(1.5)
 }
-
+*/
 .hero-figure-box-02 {
 	left: 61.3%;
 	top: 64.1%;
