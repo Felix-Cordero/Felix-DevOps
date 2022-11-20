@@ -1,0 +1,28 @@
+.ft-image-l {
+    border-radius: 1% 100% 10% 100%; 
+    width: 75%; 
+    background-color: beige;
+}
+
+.ft-image {
+    border-radius: 100% 100% 100% 100%; 
+    width: 75%; 
+    background-color: beige;
+}
+
+.ft-image-r {
+    border-radius: 100% 1% 100% 10%; 
+    width: 75%; 
+    background-color: beige;
+}
+
+.f-green {
+    color:chartreuse;
+}
+
+.f-h3 {
+    font-size: 24px;
+    color:beige;
+    margin: 0;
+    padding: 0;
+}
