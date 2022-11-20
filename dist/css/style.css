@@ -1435,7 +1435,7 @@ label {
 	top: 0;
 	will-change: transform
 }
-
+.hero-figure-box-00,
 .hero-figure-box-01,
 .hero-figure-box-02,
 .hero-figure-box-03,
@@ -1444,7 +1444,7 @@ label {
 .hero-figure-box-09 {
 	overflow: hidden
 }
-
+.hero-figure-box-00::before,
 .hero-figure-box-01::before,
 .hero-figure-box-02::before,
 .hero-figure-box-03::before,
