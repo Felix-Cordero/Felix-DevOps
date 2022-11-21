@@ -1,4 +1,4 @@
-const { findLastKey } = require("lodash");
+const { findLastKey } = require("loadash");
 
 document.getElementById("https://devops.felix-z.com/").disabled = true;
 
