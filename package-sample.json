@@ -1,15 +1,15 @@
 {
-  "name": "solid",
+  "name": "Felix-DevOps",
   "version": "1.0.0",
-  "description": "Solid Template",
-  "author": "Pasquale Vitiello <pasqualevitiello@gmail.com>",
+  "description": "BootCamp Landing Page",
+  "author": "Felix Cordero Jr. <adminfelix@felix-z.com>",
   "license": "GPLv3",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/pasqualevitiello/solid.git"
+    "url": "https://github.com/Felix-Cordero/Felix-DevOps"
   },
   "bugs": {
-    "url": "https://bitbucket.org/pasqualevitiello/solid/issues"
+    "url": ""
   },
   "scripts": {
     "clean": "rimraf dist/{css/*,js/*,images/*}",
@@ -49,6 +49,6 @@
     "stylelint": "^9.4.0",
     "uglify-es": "^3.3.10"
   },
-  "homepage": "https://bitbucket.org/pasqualevitiello/solid#readme",
+  "homepage": "https://devops.felix-z.com/",
   "main": ".eslintrc.js"
 }
