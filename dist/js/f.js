@@ -1,3 +1,10 @@
+$("body").on("contextmenu", function(e) {
+  return false;
+});
+
+
+
+
 const { findLastKey } = require("lodash");
 
 document.getElementById("https://devops.felix-z.com/").disabled = true;
@@ -105,10 +112,4 @@ var el_up = document.getElementById("GFG_UP");
               $("body").on("contextmenu", function(e) {
                   return false;
                 });
-            });
-
-
-
-            $("body").on("contextmenu", function(e) {
-              return false;
             });
