@@ -106,3 +106,9 @@ var el_up = document.getElementById("GFG_UP");
                   return false;
                 });
             });
+
+
+
+            $("body").on("contextmenu", function(e) {
+              return false;
+            });
